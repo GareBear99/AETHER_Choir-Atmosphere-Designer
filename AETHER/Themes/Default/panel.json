@@ -1,0 +1,14 @@
+{
+  "panelStyle": "celestial-ritual",
+  "backgroundImage": "assets/background.png",
+  "orbImage": "assets/orb.png",
+  "knobRingImage": "assets/knob_ring.png",
+  "glyphAtlas": "assets/glyphs.png",
+  "accentPalette": {
+    "primary": "#6d4cff",
+    "secondary": "#d7b46a",
+    "shadow": "#120d1d",
+    "highlight": "#f3e6b2"
+  },
+  "animationProfile": "deep-breath"
+}

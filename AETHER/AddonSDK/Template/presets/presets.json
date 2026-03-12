@@ -1,0 +1,13 @@
+{
+  "bankName": "Template",
+  "presets": [
+    {
+      "name": "Template Bloom",
+      "values": {
+        "param_chant": 0.62,
+        "param_temple": 0.7,
+        "param_mix": 0.38
+      }
+    }
+  ]
+}

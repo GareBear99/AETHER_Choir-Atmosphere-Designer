@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "bankName": "Agartha",
+  "presets": [
+    {
+      "name": "Buried Choir",
+      "values": {
+        "param_chant": 0.82,
+        "param_temple": 0.76,
+        "param_halo": 0.41,
+        "param_drone": 0.68,
+        "param_motion": 0.29,
+        "param_lightdark": 0.24,
+        "param_mix": 0.49,
+        "param_output": 0.56
+      }
+    },
+    {
+      "name": "Molten Basilica",
+      "values": {
+        "param_chant": 0.58,
+        "param_temple": 0.88,
+        "param_halo": 0.49,
+        "param_drone": 0.74,
+        "param_motion": 0.17,
+        "param_lightdark": 0.15,
+        "param_mix": 0.44,
+        "param_output": 0.54
+      }
+    }
+  ]
+}

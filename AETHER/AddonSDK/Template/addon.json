@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "com.aether.addon.yourtheme",
+  "name": "Your Theme",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "aetherMinVersion": "1.0.0",
+  "type": "panel-theme",
+  "priceHint": "$1",
+  "description": "Replace this package metadata and art with your own ritual panel concept.",
+  "fallbackTheme": "Default",
+  "officialStatus": "community"
+}

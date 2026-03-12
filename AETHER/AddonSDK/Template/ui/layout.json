@@ -1,0 +1,54 @@
+{
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "controls": [
+    {
+      "param": "param_chant",
+      "x": 160,
+      "y": 520,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_halo",
+      "x": 300,
+      "y": 520,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_temple",
+      "x": 440,
+      "y": 520,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_drone",
+      "x": 840,
+      "y": 520,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_motion",
+      "x": 980,
+      "y": 520,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_mix",
+      "x": 1120,
+      "y": 520,
+      "style": "large-rune-knob"
+    }
+  ],
+  "orb": {
+    "x": 640,
+    "y": 280,
+    "radius": 128
+  },
+  "title": {
+    "x": 640,
+    "y": 80,
+    "align": "center"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "com.aether.addon.default",
+  "name": "Default",
+  "author": "Gary Doman",
+  "version": "1.0.0",
+  "aetherMinVersion": "1.0.0",
+  "type": "panel-theme",
+  "priceHint": "$0",
+  "description": "Official default celestial ritual panel.",
+  "fallbackTheme": "Default"
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "com.aether.addon.agartha",
+  "name": "Agartha",
+  "author": "Gary Doman",
+  "version": "1.0.0",
+  "aetherMinVersion": "1.0.0",
+  "type": "panel-theme",
+  "priceHint": "$1",
+  "description": "Subterranean sacred-stone panel with molten glyph accents.",
+  "fallbackTheme": "Default"
+}

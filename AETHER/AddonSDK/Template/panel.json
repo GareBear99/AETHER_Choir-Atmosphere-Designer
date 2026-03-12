@@ -1,0 +1,14 @@
+{
+  "panelStyle": "ritual-stone",
+  "backgroundImage": "assets/background.png",
+  "orbImage": "assets/orb.png",
+  "knobRingImage": "assets/knob_ring.png",
+  "glyphAtlas": "assets/glyphs.png",
+  "animationProfile": "deep-breath",
+  "accentPalette": {
+    "primary": "#6d4cff",
+    "secondary": "#d7b46a",
+    "shadow": "#120d1d",
+    "highlight": "#f3e6b2"
+  }
+}

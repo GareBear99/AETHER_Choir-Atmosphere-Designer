@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "bankName": "AETHER Factory",
+  "presets": [
+    {
+      "name": "Celestial Procession",
+      "values": {
+        "param_chant": 0.74,
+        "param_temple": 0.72,
+        "param_halo": 0.63,
+        "param_drone": 0.42,
+        "param_motion": 0.31,
+        "param_lightdark": 0.61,
+        "param_mix": 0.48,
+        "param_output": 0.56
+      }
+    },
+    {
+      "name": "Glass Cathedral",
+      "values": {
+        "param_chant": 0.53,
+        "param_temple": 0.84,
+        "param_halo": 0.78,
+        "param_drone": 0.27,
+        "param_motion": 0.18,
+        "param_lightdark": 0.72,
+        "param_mix": 0.42,
+        "param_output": 0.54
+      }
+    },
+    {
+      "name": "Black Halo",
+      "values": {
+        "param_chant": 0.61,
+        "param_temple": 0.69,
+        "param_halo": 0.59,
+        "param_drone": 0.51,
+        "param_motion": 0.24,
+        "param_lightdark": 0.18,
+        "param_mix": 0.51,
+        "param_output": 0.55
+      }
+    }
+  ]
+}

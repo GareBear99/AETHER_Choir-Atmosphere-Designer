@@ -1,0 +1,14 @@
+{
+  "panelStyle": "subterranean-sacred",
+  "backgroundImage": "assets/background.png",
+  "orbImage": "assets/orb.png",
+  "knobRingImage": "assets/knob_ring.png",
+  "glyphAtlas": "assets/glyphs.png",
+  "accentPalette": {
+    "primary": "#8f4bff",
+    "secondary": "#d5953a",
+    "shadow": "#150d0a",
+    "highlight": "#ffd38e"
+  },
+  "animationProfile": "deep-molten-breath"
+}

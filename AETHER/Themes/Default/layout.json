@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "canvas": {
+    "width": 1120,
+    "height": 720
+  },
+  "title": {
+    "x": 36,
+    "y": 28,
+    "w": 240,
+    "h": 38,
+    "align": "left"
+  },
+  "subtitle": {
+    "x": 36,
+    "y": 62,
+    "w": 360,
+    "h": 22,
+    "align": "left"
+  },
+  "orb": {
+    "x": 560,
+    "y": 326,
+    "radius": 155,
+    "ringStyle": "rune"
+  },
+  "controls": [
+    {
+      "param": "param_chant",
+      "x": 118,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_temple",
+      "x": 220,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_halo",
+      "x": 322,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_drone",
+      "x": 798,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_motion",
+      "x": 900,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_lightdark",
+      "x": 1002,
+      "y": 224,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_mix",
+      "x": 132,
+      "y": 522,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_output",
+      "x": 276,
+      "y": 522,
+      "style": "large-rune-knob"
+    },
+    {
+      "param": "param_freeze",
+      "x": 907,
+      "y": 505,
+      "style": "ritual-toggle"
+    }
+  ]
+}

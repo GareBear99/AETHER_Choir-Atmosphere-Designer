@@ -1,0 +1,7 @@
+{
+  "bankName": "Default",
+  "presets": [
+    { "name": "Celestial Procession", "values": { "param_chant": 0.78, "param_halo": 0.62, "param_temple": 0.70, "param_mix": 0.55 } },
+    { "name": "Glass Cathedral", "values": { "param_halo": 0.84, "param_motion": 0.31, "param_lightdark": 0.77, "param_mix": 0.49 } }
+  ]
+}

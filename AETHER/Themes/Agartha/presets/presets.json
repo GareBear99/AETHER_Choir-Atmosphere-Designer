@@ -1,0 +1,8 @@
+{
+  "bankName": "Agartha",
+  "presets": [
+    { "name": "Buried Choir", "values": { "param_chant": 0.82, "param_temple": 0.76, "param_drone": 0.68, "param_mix": 0.57 } },
+    { "name": "Molten Basilica", "values": { "param_halo": 0.71, "param_motion": 0.44, "param_lightdark": 0.22, "param_mix": 0.46 } },
+    { "name": "Deep Vault Hymn", "values": { "param_chant": 0.64, "param_drone": 0.83, "param_temple": 0.59, "param_mix": 0.61 } }
+  ]
+}

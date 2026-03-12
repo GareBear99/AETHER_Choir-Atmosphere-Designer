@@ -1,0 +1,13 @@
+{
+  "canvas": { "width": 1280, "height": 720 },
+  "controls": [
+    { "param": "param_chant", "x": 150, "y": 535, "style": "carved-stone-knob" },
+    { "param": "param_halo", "x": 295, "y": 535, "style": "carved-stone-knob" },
+    { "param": "param_temple", "x": 440, "y": 535, "style": "carved-stone-knob" },
+    { "param": "param_drone", "x": 840, "y": 535, "style": "carved-stone-knob" },
+    { "param": "param_motion", "x": 985, "y": 535, "style": "carved-stone-knob" },
+    { "param": "param_mix", "x": 1130, "y": 535, "style": "carved-stone-knob" }
+  ],
+  "orb": { "x": 640, "y": 272, "radius": 136 },
+  "title": { "x": 640, "y": 74, "align": "center" }
+}
